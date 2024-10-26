@@ -1,0 +1,1 @@
+export const LOGO = "https://indiaecommerce.in/wp-content/uploads/2024/04/WhatsApp-Image-2024-06-27-at-19.25.48_8c92d7bf.jpg.webp";

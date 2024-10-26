@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.custom-button {
+    background: linear-gradient(120deg, #FFD700, #21421e);
+    background-size: 200%;
+    transition: background-position 0.5s ease;
+}
+
+.custom-button:hover {
+    background-position: -100%;
+}
